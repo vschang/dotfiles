@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = valeriechang0@gmail.com
+	name = Valerie Chang
